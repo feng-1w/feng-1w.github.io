@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daily on Feng yiwen</title>
+    <link>https://feng-1w.github.io/tags/daily/</link>
+    <description>Recent content in Daily on Feng yiwen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>{year}</copyright>
+    <lastBuildDate>Sat, 30 Sep 2023 21:03:55 +0800</lastBuildDate><atom:link href="https://feng-1w.github.io/tags/daily/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>建站日志</title>
+      <link>https://feng-1w.github.io/posts/a0/my-first-post/</link>
+      <pubDate>Sat, 30 Sep 2023 21:03:55 +0800</pubDate>
+      
+      <guid>https://feng-1w.github.io/posts/a0/my-first-post/</guid>
+      <description>2023.09.29 今年由928变成了929，由于自己没啥经历加上太咸鱼，外校没怎么报名，但浙大cs还放我进去了，面试不出所料狠狠打击到我了（递补倒数第10）🤦‍♂️，于是安心本校了
+2023.09.30 晚上组里线上开了见面会，研零和师兄师姐见了下面，大家都很优秀，我导说让我们研零大四就发论文，希望有所收获和进步</description>
+    </item>
+    
+  </channel>
+</rss>
